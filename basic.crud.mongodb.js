@@ -62,4 +62,4 @@ use("ncit");
 //   }
 // );
 
-db.student.find();
+// db.student.find();
